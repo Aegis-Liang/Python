@@ -1,0 +1,1460 @@
+Earin Class,0.027917
+Get Serial Number,0.000132
+GetUnitInfo,0.000013
+GetUUTInfo,0.00001
+GetMacAddress,0.000009
+FormatMAC,0.000011
+Action,8.469219
+Statement,0.000011
+MAC_Address,0.000225
+Disconnect,1.180875
+Connect,26.187106
+Action,25.637549
+For,0.00043
+Speaker Frequency Response @20Hz,0.067215
+End,0.000036
+For,0.000313
+Speaker Frequency Response @20.6Hz,0.000241
+End,0.00007
+For,0.000517
+Speaker Frequency Response @21.2Hz,0.000198
+End,0.000029
+For,0.000169
+Speaker Frequency Response @21.8Hz,0.000459
+End,0.000029
+For,0.000222
+Speaker Frequency Response @22.4Hz,0.000186
+End,0.000026
+For,0.000198
+Speaker Frequency Response @23Hz,0.000367
+End,0.000031
+For,0.000208
+Speaker Frequency Response @23.6Hz,0.000176
+End,0.000028
+For,0.000203
+Speaker Frequency Response @24.3Hz,0.000193
+End,0.000031
+For,0.000176
+Speaker Frequency Response @25Hz,0.000181
+End,0.000046
+For,0.000517
+Speaker Frequency Response @25.8Hz,0.000188
+End,0.000036
+For,0.000189
+Speaker Frequency Response @26.5Hz,0.000169
+End,0.000194
+For,0.00027
+Speaker Frequency Response @27.2Hz,0.000195
+End,0.000055
+For,0.000225
+Speaker Frequency Response @28Hz,0.000652
+End,0.000073
+For,0.000313
+Speaker Frequency Response @29Hz,0.000289
+End,0.000062
+For,0.000263
+Speaker Frequency Response @30Hz,0.000266
+End,0.000208
+For,0.000394
+Speaker Frequency Response @30.7Hz,0.000278
+End,0.000059
+For,0.000181
+Speaker Frequency Response @31.5Hz,0.00018
+End,0.000026
+For,0.00018
+Speaker Frequency Response @32.5Hz,0.000681
+End,0.000042
+For,0.000244
+Speaker Frequency Response @33.5Hz,0.000309
+End,0.000046
+For,0.000323
+Speaker Frequency Response @34.5Hz,0.000296
+End,0.000033
+For,0.000252
+Speaker Frequency Response @35.5Hz,0.000245
+End,0.000129
+For,0.000359
+Speaker Frequency Response @36.5Hz,0.000251
+End,0.000043
+For,0.000287
+Speaker Frequency Response @37.5Hz,0.000548
+End,0.000048
+For,0.000246
+Speaker Frequency Response @38.7Hz,0.000183
+End,0.000028
+For,0.000319
+Speaker Frequency Response @40Hz,0.000194
+End,0.00003
+For,0.000178
+Speaker Frequency Response @41.2Hz,0.000239
+End,0.000028
+For,0.000513
+Speaker Frequency Response @42.5Hz,0.000187
+End,0.000031
+For,0.000194
+Speaker Frequency Response @43.7Hz,0.000167
+End,0.000042
+For,0.000265
+Speaker Frequency Response @45Hz,0.000192
+End,0.000058
+For,0.000253
+Speaker Frequency Response @46.2Hz,0.000731
+End,0.000039
+For,0.0002
+Speaker Frequency Response @47.5Hz,0.000263
+End,0.000034
+For,0.000169
+Speaker Frequency Response @48.7Hz,0.000225
+End,0.000031
+For,0.00018
+Speaker Frequency Response @50Hz,0.000219
+End,0.000032
+For,0.000478
+Speaker Frequency Response @51.5Hz,0.000184
+End,0.00003
+For,0.000176
+Speaker Frequency Response @53Hz,0.000175
+End,0.000058
+For,0.000257
+Speaker Frequency Response @54.5Hz,0.000333
+End,0.000029
+For,0.00028
+Speaker Frequency Response @56Hz,0.000169
+End,0.000085
+For,0.000188
+Speaker Frequency Response @58Hz,0.000341
+End,0.000041
+For,0.000208
+Speaker Frequency Response @60Hz,0.000178
+End,0.000037
+For,0.000176
+Speaker Frequency Response @61.5Hz,0.000182
+End,0.00003
+For,0.000272
+Speaker Frequency Response @63Hz,0.000274
+End,0.000049
+For,0.000183
+Speaker Frequency Response @65Hz,0.000176
+End,0.000041
+For,0.000178
+Speaker Frequency Response @67Hz,0.000235
+End,0.00005
+For,0.00026
+Speaker Frequency Response @69Hz,0.000182
+End,0.000027
+For,0.000548
+Speaker Frequency Response @71Hz,0.000215
+End,0.000037
+For,0.000175
+Speaker Frequency Response @73Hz,0.000166
+End,0.000043
+For,0.000537
+Speaker Frequency Response @75Hz,0.000196
+End,0.000029
+For,0.000179
+Speaker Frequency Response @77.5Hz,0.000177
+End,0.000027
+For,0.000434
+Speaker Frequency Response @80Hz,0.000188
+End,0.000039
+For,0.000242
+Speaker Frequency Response @82.5Hz,0.000163
+End,0.000028
+For,0.000312
+Speaker Frequency Response @85Hz,0.000173
+End,0.000042
+For,0.000251
+Speaker Frequency Response @87.5Hz,0.00018
+End,0.000073
+For,0.00023
+Speaker Frequency Response @90Hz,0.000193
+End,0.000028
+For,0.000229
+Speaker Frequency Response @92.5Hz,0.00017
+End,0.000151
+For,0.000192
+Speaker Frequency Response @95Hz,0.000224
+End,0.000099
+For,0.000172
+Speaker Frequency Response @97.5Hz,0.00017
+End,0.000026
+For,0.000302
+Speaker Frequency Response @100Hz,0.000302
+End,0.000028
+For,0.000179
+Speaker Frequency Response @103Hz,0.000171
+End,0.000154
+For,0.000216
+Speaker Frequency Response @106Hz,0.000213
+End,0.000032
+For,0.000173
+Speaker Frequency Response @109Hz,0.000163
+End,0.000059
+For,0.000255
+Speaker Frequency Response @112Hz,0.000235
+End,0.000052
+For,0.000185
+Speaker Frequency Response @115Hz,0.000283
+End,0.000032
+For,0.000178
+Speaker Frequency Response @118Hz,0.00021
+End,0.000028
+For,0.000432
+Speaker Frequency Response @122Hz,0.000229
+End,0.000037
+For,0.000281
+Speaker Frequency Response @125Hz,0.000187
+End,0.000028
+For,0.000434
+Speaker Frequency Response @128Hz,0.000191
+End,0.000051
+For,0.000184
+Speaker Frequency Response @132Hz,0.000241
+End,0.000029
+For,0.00021
+Speaker Frequency Response @136Hz,0.000214
+End,0.000033
+For,0.000244
+Speaker Frequency Response @140Hz,0.000179
+End,0.000027
+For,0.000485
+Speaker Frequency Response @145Hz,0.000193
+End,0.000091
+For,0.000199
+Speaker Frequency Response @150Hz,0.000167
+End,0.000025
+For,0.000237
+Speaker Frequency Response @155Hz,0.000194
+End,0.000028
+For,0.000177
+Speaker Frequency Response @160Hz,0.000183
+End,0.000026
+For,0.000609
+Speaker Frequency Response @165Hz,0.000296
+End,0.000037
+For,0.000179
+Speaker Frequency Response @170Hz,0.000187
+End,0.000026
+For,0.000419
+Speaker Frequency Response @175Hz,0.000189
+End,0.000054
+For,0.000265
+Speaker Frequency Response @180Hz,0.000162
+End,0.000042
+For,0.000254
+Speaker Frequency Response @185Hz,0.000178
+End,0.000035
+For,0.000181
+Speaker Frequency Response @190Hz,0.00023
+End,0.000027
+For,0.000648
+Speaker Frequency Response @195Hz,0.000198
+End,0.000049
+For,0.000181
+Speaker Frequency Response @200Hz,0.000256
+End,0.000041
+For,0.00017
+Speaker Frequency Response @206Hz,0.000333
+End,0.000046
+For,0.000232
+Speaker Frequency Response @212Hz,0.000182
+End,0.000028
+For,0.000507
+Speaker Frequency Response @218Hz,0.000229
+End,0.000029
+For,0.000203
+Speaker Frequency Response @224Hz,0.000175
+End,0.000031
+For,0.000583
+Speaker Frequency Response @230Hz,0.000194
+End,0.000046
+For,0.000183
+Speaker Frequency Response @236Hz,0.000248
+End,0.000025
+For,0.000161
+Speaker Frequency Response @243Hz,0.00022
+End,0.000049
+For,0.000235
+Speaker Frequency Response @250Hz,0.000183
+End,0.000039
+For,0.000565
+Speaker Frequency Response @258Hz,0.000331
+End,0.00003
+For,0.000177
+Speaker Frequency Response @265Hz,0.000213
+End,0.000028
+For,0.000211
+Speaker Frequency Response @272Hz,0.00032
+End,0.000041
+For,0.000253
+Speaker Frequency Response @280Hz,0.00018
+End,0.000026
+For,0.000248
+Speaker Frequency Response @290Hz,0.000318
+End,0.000031
+For,0.000182
+Speaker Frequency Response @300Hz,0.000176
+End,0.000104
+For,0.000189
+Speaker Frequency Response @307Hz,0.0003
+End,0.000032
+For,0.000171
+Speaker Frequency Response @315Hz,0.00016
+End,0.000036
+For,0.000179
+Speaker Frequency Response @325Hz,0.000293
+End,0.000042
+For,0.000177
+Speaker Frequency Response @335Hz,0.000177
+End,0.000029
+For,0.000412
+Speaker Frequency Response @345Hz,0.000191
+End,0.000051
+For,0.000188
+Speaker Frequency Response @355Hz,0.000162
+End,0.000027
+For,0.000166
+Speaker Frequency Response @365Hz,0.000429
+End,0.000027
+For,0.000175
+Speaker Frequency Response @375Hz,0.00018
+End,0.000027
+For,0.000235
+Speaker Frequency Response @387Hz,0.000208
+End,0.000049
+For,0.000182
+Speaker Frequency Response @400Hz,0.000197
+End,0.000027
+For,0.000172
+Speaker Frequency Response @412Hz,0.000239
+End,0.000029
+For,0.000225
+Speaker Frequency Response @425Hz,0.000179
+End,0.000023
+For,0.000169
+Speaker Frequency Response @437Hz,0.000164
+End,0.000051
+For,0.000193
+Speaker Frequency Response @450Hz,0.000258
+End,0.000039
+For,0.000274
+Speaker Frequency Response @462Hz,0.000778
+End,0.000035
+For,0.000402
+Speaker Frequency Response @475Hz,0.000198
+End,0.000024
+For,0.000167
+Speaker Frequency Response @487Hz,0.000156
+End,0.000034
+For,0.000291
+Speaker Frequency Response @500Hz,0.000242
+End,0.000029
+For,0.000251
+Speaker Frequency Response @515Hz,0.000186
+End,0.000119
+For,0.000182
+Speaker Frequency Response @530Hz,0.000198
+End,0.000027
+For,0.000192
+Speaker Frequency Response @545Hz,0.000182
+End,0.000068
+For,0.000186
+Speaker Frequency Response @560Hz,0.000203
+End,0.000046
+For,0.000162
+Speaker Frequency Response @580Hz,0.000158
+End,0.00004
+For,0.000452
+Speaker Frequency Response @600Hz,0.000319
+End,0.000028
+For,0.000176
+Speaker Frequency Response @615Hz,0.000179
+End,0.000044
+For,0.000241
+Speaker Frequency Response @630Hz,0.000174
+End,0.000063
+For,0.000184
+Speaker Frequency Response @650Hz,0.000167
+End,0.000024
+For,0.00026
+Speaker Frequency Response @670Hz,0.000427
+End,0.000029
+For,0.000177
+Speaker Frequency Response @690Hz,0.000175
+End,0.000029
+For,0.000238
+Speaker Frequency Response @710Hz,0.000315
+End,0.000039
+For,0.000179
+Speaker Frequency Response @730Hz,0.00018
+End,0.000029
+For,0.000266
+Speaker Frequency Response @750Hz,0.000193
+End,0.00005
+For,0.000288
+Speaker Frequency Response @775Hz,0.000178
+End,0.000026
+For,0.000165
+Speaker Frequency Response @800Hz,0.000251
+End,0.000089
+For,0.000179
+Speaker Frequency Response @825Hz,0.000248
+End,0.000056
+For,0.000227
+Speaker Frequency Response @850Hz,0.000179
+End,0.000048
+For,0.000179
+Speaker Frequency Response @875Hz,0.000233
+End,0.000029
+For,0.0002
+Speaker Frequency Response @900Hz,0.000165
+End,0.000036
+For,0.000208
+Speaker Frequency Response @925Hz,0.000258
+End,0.000038
+For,0.000267
+Speaker Frequency Response @950Hz,0.000179
+End,0.00003
+For,0.000429
+Speaker Frequency Response @975Hz,0.000235
+End,0.000029
+For,0.000258
+Speaker Frequency Response @1000Hz,0.000191
+End,0.000028
+For,0.000257
+Speaker Frequency Response @1030Hz,0.000259
+End,0.000042
+For,0.000287
+Speaker Frequency Response @1060Hz,0.000184
+End,0.000027
+For,0.000208
+Speaker Frequency Response @1090Hz,0.000387
+End,0.000058
+For,0.000261
+Speaker Frequency Response @1120Hz,0.000186
+End,0.000027
+For,0.000197
+Speaker Frequency Response @1150Hz,0.000417
+End,0.000033
+For,0.000179
+Speaker Frequency Response @1180Hz,0.000174
+End,0.000035
+For,0.000156
+Speaker Frequency Response @1220Hz,0.000155
+End,0.000025
+For,0.000196
+Speaker Frequency Response @1250Hz,0.000172
+End,0.000027
+For,0.000323
+Speaker Frequency Response @1280Hz,0.000273
+End,0.000068
+For,0.000308
+Speaker Frequency Response @1320Hz,0.000322
+End,0.000044
+For,0.000175
+Speaker Frequency Response @1360Hz,0.000712
+End,0.000037
+For,0.000236
+Speaker Frequency Response @1400Hz,0.0002
+End,0.000025
+For,0.000162
+Speaker Frequency Response @1450Hz,0.00016
+End,0.000033
+For,0.000161
+Speaker Frequency Response @1500Hz,0.000194
+End,0.000125
+For,0.000186
+Speaker Frequency Response @1550Hz,0.00018
+End,0.000027
+For,0.000451
+Speaker Frequency Response @1600Hz,0.000221
+End,0.000035
+For,0.000172
+Speaker Frequency Response @1650Hz,0.000164
+End,0.000048
+For,0.000183
+Speaker Frequency Response @1700Hz,0.000227
+End,0.000025
+For,0.000196
+Speaker Frequency Response @1750Hz,0.000181
+End,0.000027
+For,0.000256
+Speaker Frequency Response @1800Hz,0.00018
+End,0.000124
+For,0.000251
+Speaker Frequency Response @1850Hz,0.000257
+End,0.000028
+For,0.000179
+Speaker Frequency Response @1900Hz,0.000236
+End,0.000104
+For,0.000186
+Speaker Frequency Response @1950Hz,0.000237
+End,0.000036
+For,0.00017
+Speaker Frequency Response @2000Hz,0.000162
+End,0.000039
+For,0.00016
+Speaker Frequency Response @2060Hz,0.000226
+End,0.00004
+For,0.000192
+Speaker Frequency Response @2120Hz,0.000243
+End,0.00004
+For,0.000341
+Speaker Frequency Response @2180Hz,0.000261
+End,0.00003
+For,0.000238
+Speaker Frequency Response @2240Hz,0.000182
+End,0.000039
+For,0.000161
+Speaker Frequency Response @2300Hz,0.000156
+End,0.000038
+For,0.000526
+Speaker Frequency Response @2360Hz,0.000167
+End,0.000028
+For,0.000177
+Speaker Frequency Response @2430Hz,0.000183
+End,0.000027
+For,0.000203
+Speaker Frequency Response @2500Hz,0.000216
+End,0.000039
+For,0.000263
+Speaker Frequency Response @2580Hz,0.000185
+End,0.000132
+For,0.000193
+Speaker Frequency Response @2650Hz,0.000219
+End,0.000027
+For,0.000289
+Speaker Frequency Response @2720Hz,0.00024
+End,0.000024
+For,0.000204
+Speaker Frequency Response @2800Hz,0.000166
+End,0.000026
+For,0.000199
+Speaker Frequency Response @2900Hz,0.000179
+End,0.000028
+For,0.000173
+Speaker Frequency Response @3000Hz,0.000554
+End,0.000037
+For,0.000421
+Speaker Frequency Response @3070Hz,0.000202
+End,0.000025
+For,0.00016
+Speaker Frequency Response @3150Hz,0.000155
+End,0.000023
+For,0.000153
+Speaker Frequency Response @3250Hz,0.000166
+End,0.000028
+For,0.000179
+Speaker Frequency Response @3350Hz,0.000241
+End,0.000058
+For,0.000231
+Speaker Frequency Response @3450Hz,0.000287
+End,0.00004
+For,0.000252
+Speaker Frequency Response @3550Hz,0.000177
+End,0.000028
+For,0.000445
+Speaker Frequency Response @3650Hz,0.000366
+End,0.00003
+For,0.000165
+Speaker Frequency Response @3750Hz,0.000239
+End,0.000027
+For,0.000157
+Speaker Frequency Response @3870Hz,0.000244
+End,0.000034
+For,0.000249
+Speaker Frequency Response @4000Hz,0.000153
+End,0.000038
+For,0.000199
+Speaker Frequency Response @4120Hz,0.000179
+End,0.000028
+For,0.000173
+Speaker Frequency Response @4250Hz,0.000554
+End,0.000031
+For,0.000429
+Speaker Frequency Response @4370Hz,0.000181
+End,0.000025
+For,0.000219
+Speaker Frequency Response @4500Hz,0.000253
+End,0.000039
+For,0.000158
+Speaker Frequency Response @4620Hz,0.000233
+End,0.000053
+For,0.000179
+Speaker Frequency Response @4750Hz,0.000243
+End,0.000032
+For,0.000651
+Speaker Frequency Response @4870Hz,0.000193
+End,0.000032
+For,0.000175
+Speaker Frequency Response @5000Hz,0.00018
+End,0.000028
+For,0.000489
+Speaker Frequency Response @5150Hz,0.000226
+End,0.000058
+For,0.000182
+Speaker Frequency Response @5300Hz,0.000161
+End,0.000025
+For,0.000157
+Speaker Frequency Response @5450Hz,0.000166
+End,0.000022
+For,0.00034
+Speaker Frequency Response @5600Hz,0.000242
+End,0.000059
+For,0.000268
+Speaker Frequency Response @5800Hz,0.000185
+End,0.000092
+For,0.000196
+Speaker Frequency Response @6000Hz,0.000336
+End,0.000034
+For,0.000167
+Speaker Frequency Response @6150Hz,0.000258
+End,0.000027
+For,0.000161
+Speaker Frequency Response @6300Hz,0.000151
+End,0.000024
+For,0.000173
+Speaker Frequency Response @6500Hz,0.000226
+End,0.000028
+For,0.000175
+Speaker Frequency Response @6700Hz,0.000178
+End,0.000089
+For,0.000317
+Speaker Frequency Response @6900Hz,0.000188
+End,0.000049
+For,0.000286
+Speaker Frequency Response @7100Hz,0.000635
+End,0.000032
+For,0.000436
+Speaker Frequency Response @7300Hz,0.00018
+End,0.000024
+For,0.000274
+Speaker Frequency Response @7500Hz,0.000159
+End,0.000023
+For,0.000268
+Speaker Frequency Response @7750Hz,0.000273
+End,0.000043
+For,0.000187
+Speaker Frequency Response @8000Hz,0.000298
+End,0.000039
+For,0.00021
+Speaker Frequency Response @8250Hz,0.000198
+End,0.000028
+For,0.000177
+Speaker Frequency Response @8500Hz,0.000188
+End,0.000037
+For,0.000345
+Speaker Frequency Response @8750Hz,0.000177
+End,0.000041
+For,0.000168
+Speaker Frequency Response @9000Hz,0.000173
+End,0.000027
+For,0.000176
+Speaker Frequency Response @9250Hz,0.00018
+End,0.000033
+For,0.000276
+Speaker Frequency Response @9500Hz,0.000261
+End,0.000031
+For,0.00023
+Speaker Frequency Response @9750Hz,0.000182
+End,0.000028
+For,0.000297
+Speaker Frequency Response @10000Hz,0.000175
+End,0.00003
+For,0.000175
+Speaker Frequency Response @10300Hz,0.000268
+End,0.000026
+For,0.000262
+Speaker Frequency Response @10600Hz,0.00018
+End,0.000022
+For,0.00033
+Speaker Frequency Response @10900Hz,0.000264
+End,0.000039
+For,0.000328
+Speaker Frequency Response @11200Hz,0.000239
+End,0.000107
+For,0.000193
+Speaker Frequency Response @11500Hz,0.000237
+End,0.000034
+For,0.000168
+Speaker Frequency Response @11800Hz,0.000176
+End,0.000025
+For,0.000196
+Speaker Frequency Response @12200Hz,0.000159
+End,0.00009
+For,0.000181
+Speaker Frequency Response @12500Hz,0.000178
+End,0.000027
+For,0.000176
+Speaker Frequency Response @12800Hz,0.000177
+End,0.000037
+For,0.000211
+Speaker Frequency Response @13200Hz,0.000398
+End,0.000029
+For,0.000178
+Speaker Frequency Response @13600Hz,0.000616
+End,0.000055
+For,0.000337
+Speaker Frequency Response @14000Hz,0.000174
+End,0.000025
+For,0.000161
+Speaker Frequency Response @14500Hz,0.000168
+End,0.000032
+For,0.000273
+Speaker Frequency Response @15000Hz,0.00018
+End,0.000033
+For,0.000227
+Speaker Frequency Response @15500Hz,0.000182
+End,0.000027
+For,0.00019
+Speaker Frequency Response @16000Hz,0.000595
+End,0.000059
+For,0.000285
+Speaker Frequency Response @16500Hz,0.000275
+End,0.000038
+For,0.000162
+Speaker Frequency Response @17000Hz,0.000155
+End,0.000022
+For,0.000167
+Speaker Frequency Response @17500Hz,0.000189
+End,0.000053
+For,0.000216
+Speaker Frequency Response @18000Hz,0.000182
+End,0.000028
+For,0.000384
+Speaker Frequency Response @18500Hz,0.000245
+End,0.000059
+For,0.000361
+Speaker Frequency Response @19000Hz,0.000179
+End,0.000092
+For,0.000186
+Speaker Frequency Response @19500Hz,0.000262
+End,0.000031
+For,0.00016
+Speaker Frequency Response @20000Hz,0.000193
+End,0.000024
+For,0.000211
+Speaker THD Value @20Hz,0.000592
+End,0.000048
+For,0.000308
+Speaker THD Value @20.6Hz,0.000232
+End,0.000027
+For,0.000177
+Speaker THD Value @21.2Hz,0.000574
+End,0.000031
+For,0.000327
+Speaker THD Value @21.8Hz,0.000212
+End,0.000025
+For,0.000161
+Speaker THD Value @22.4Hz,0.000142
+End,0.000034
+For,0.000152
+Speaker THD Value @23Hz,0.000365
+End,0.000026
+For,0.000179
+Speaker THD Value @23.6Hz,0.000314
+End,0.000034
+For,0.000404
+Speaker THD Value @24.3Hz,0.00024
+End,0.000031
+For,0.000174
+Speaker THD Value @25Hz,0.000172
+End,0.000026
+For,0.000376
+Speaker THD Value @25.8Hz,0.000257
+End,0.000045
+For,0.000294
+Speaker THD Value @26.5Hz,0.000158
+End,0.000023
+For,0.000158
+Speaker THD Value @27.2Hz,0.000146
+End,0.000021
+For,0.000183
+Speaker THD Value @28Hz,0.000218
+End,0.000086
+For,0.000257
+Speaker THD Value @29Hz,0.000176
+End,0.000112
+For,0.000278
+Speaker THD Value @30Hz,0.000183
+End,0.000055
+For,0.000277
+Speaker THD Value @30.7Hz,0.000262
+End,0.000039
+For,0.000158
+Speaker THD Value @31.5Hz,0.000427
+End,0.000025
+For,0.000176
+Speaker THD Value @32.5Hz,0.000176
+End,0.000044
+For,0.00017
+Speaker THD Value @33.5Hz,0.000356
+End,0.000029
+For,0.000195
+Speaker THD Value @34.5Hz,0.000175
+End,0.000027
+For,0.000509
+Speaker THD Value @35.5Hz,0.000183
+End,0.000033
+For,0.000203
+Speaker THD Value @36.5Hz,0.000313
+End,0.000029
+For,0.000192
+Speaker THD Value @37.5Hz,0.000211
+End,0.000033
+For,0.000172
+Speaker THD Value @38.7Hz,0.000157
+End,0.000025
+For,0.000161
+Speaker THD Value @40Hz,0.000149
+End,0.000024
+For,0.000189
+Speaker THD Value @41.2Hz,0.000265
+End,0.00003
+For,0.000177
+Speaker THD Value @42.5Hz,0.000175
+End,0.000077
+For,0.000189
+Speaker THD Value @43.7Hz,0.000257
+End,0.00008
+For,0.0002
+Speaker THD Value @45Hz,0.000151
+End,0.000039
+For,0.000265
+Speaker THD Value @46.2Hz,0.000244
+End,0.000047
+For,0.000326
+Speaker THD Value @47.5Hz,0.000233
+End,0.000038
+For,0.00028
+Speaker THD Value @48.7Hz,0.000504
+End,0.000052
+For,0.000271
+Speaker THD Value @50Hz,0.000234
+End,0.000044
+For,0.000331
+Speaker THD Value @51.5Hz,0.000179
+End,0.000029
+For,0.000177
+Speaker THD Value @53Hz,0.000278
+End,0.000039
+For,0.000271
+Speaker THD Value @54.5Hz,0.0002
+End,0.000024
+For,0.000177
+Speaker THD Value @56Hz,0.000255
+End,0.000044
+For,0.000267
+Speaker THD Value @58Hz,0.000176
+End,0.000028
+For,0.000575
+Speaker THD Value @60Hz,0.000248
+End,0.000049
+For,0.000289
+Speaker THD Value @61.5Hz,0.000257
+End,0.00004
+For,0.000164
+Speaker THD Value @63Hz,0.000163
+End,0.000022
+For,0.000218
+Speaker THD Value @65Hz,0.000296
+End,0.00004
+For,0.000174
+Speaker THD Value @67Hz,0.000175
+End,0.000096
+For,0.000192
+Speaker THD Value @69Hz,0.000202
+End,0.000029
+For,0.000172
+Speaker THD Value @71Hz,0.000264
+End,0.000118
+For,0.000194
+Speaker THD Value @73Hz,0.000343
+End,0.000032
+For,0.000163
+Speaker THD Value @75Hz,0.000153
+End,0.000024
+For,0.000159
+Speaker THD Value @77.5Hz,0.000181
+End,0.000062
+For,0.000248
+Speaker THD Value @80Hz,0.00025
+End,0.00003
+For,0.000211
+Speaker THD Value @82.5Hz,0.000174
+End,0.000131
+For,0.000275
+Speaker THD Value @85Hz,0.00057
+End,0.000033
+For,0.000281
+Speaker THD Value @87.5Hz,0.000256
+End,0.000023
+For,0.000157
+Speaker THD Value @90Hz,0.000139
+End,0.000048
+For,0.000255
+Speaker THD Value @92.5Hz,0.000203
+End,0.000047
+For,0.000199
+Speaker THD Value @95Hz,0.000221
+End,0.000062
+For,0.00018
+Speaker THD Value @97.5Hz,0.000175
+End,0.000027
+For,0.000172
+Speaker THD Value @100Hz,0.000354
+End,0.000041
+For,0.000192
+Speaker THD Value @103Hz,0.000176
+End,0.000023
+For,0.000174
+Speaker THD Value @106Hz,0.00015
+End,0.000023
+For,0.000147
+Speaker THD Value @109Hz,0.000237
+End,0.000033
+For,0.000222
+Speaker THD Value @112Hz,0.000225
+End,0.000029
+For,0.000455
+Speaker THD Value @115Hz,0.000229
+End,0.000074
+For,0.000192
+Speaker THD Value @118Hz,0.000216
+End,0.000024
+For,0.000178
+Speaker THD Value @122Hz,0.00017
+End,0.000024
+For,0.000155
+Speaker THD Value @125Hz,0.000177
+End,0.00003
+For,0.000175
+Speaker THD Value @128Hz,0.000177
+End,0.000028
+For,0.00042
+Speaker THD Value @132Hz,0.000213
+End,0.000046
+For,0.000259
+Speaker THD Value @136Hz,0.000173
+End,0.000026
+For,0.000496
+Speaker THD Value @140Hz,0.000177
+End,0.000035
+For,0.000194
+Speaker THD Value @145Hz,0.000211
+End,0.000026
+For,0.00028
+Speaker THD Value @150Hz,0.000153
+End,0.000162
+For,0.000251
+Speaker THD Value @155Hz,0.000206
+End,0.000027
+For,0.000173
+Speaker THD Value @160Hz,0.000256
+End,0.000037
+For,0.000245
+Speaker THD Value @165Hz,0.000261
+End,0.000029
+For,0.000162
+Speaker THD Value @170Hz,0.000152
+End,0.000022
+For,0.000159
+Speaker THD Value @175Hz,0.000136
+End,0.000056
+For,0.000178
+Speaker THD Value @180Hz,0.000174
+End,0.000028
+For,0.000175
+Speaker THD Value @185Hz,0.000428
+End,0.000033
+For,0.000196
+Speaker THD Value @190Hz,0.000176
+End,0.000027
+For,0.000193
+Speaker THD Value @195Hz,0.000499
+End,0.000029
+For,0.00022
+Speaker THD Value @200Hz,0.000269
+End,0.000023
+For,0.000164
+Speaker THD Value @206Hz,0.000177
+End,0.000026
+For,0.000189
+Speaker THD Value @212Hz,0.000203
+End,0.000046
+For,0.000182
+Speaker THD Value @218Hz,0.000176
+End,0.000027
+For,0.00018
+Speaker THD Value @224Hz,0.000252
+End,0.000037
+For,0.000331
+Speaker THD Value @230Hz,0.000168
+End,0.000034
+For,0.000162
+Speaker THD Value @236Hz,0.000246
+End,0.000024
+For,0.000168
+Speaker THD Value @243Hz,0.000251
+End,0.000043
+For,0.000224
+Speaker THD Value @250Hz,0.000238
+End,0.000026
+For,0.000251
+Speaker THD Value @258Hz,0.000242
+End,0.00003
+For,0.000177
+Speaker THD Value @265Hz,0.000224
+End,0.000098
+For,0.000186
+Speaker THD Value @272Hz,0.000262
+End,0.000032
+For,0.00016
+Speaker THD Value @280Hz,0.00023
+End,0.000026
+For,0.000166
+Speaker THD Value @290Hz,0.000149
+End,0.000035
+For,0.000204
+Speaker THD Value @300Hz,0.00018
+End,0.000028
+For,0.00024
+Speaker THD Value @307Hz,0.000485
+End,0.000039
+For,0.000374
+Speaker THD Value @315Hz,0.000236
+End,0.000041
+For,0.000161
+Speaker THD Value @325Hz,0.000176
+End,0.000025
+For,0.000155
+Speaker THD Value @335Hz,0.000155
+End,0.000028
+For,0.000184
+Speaker THD Value @345Hz,0.000172
+End,0.000042
+For,0.000295
+Speaker THD Value @355Hz,0.000208
+End,0.000038
+For,0.000278
+Speaker THD Value @365Hz,0.000182
+End,0.000027
+For,0.000532
+Speaker THD Value @375Hz,0.000178
+End,0.000078
+For,0.000185
+Speaker THD Value @387Hz,0.000253
+End,0.000037
+For,0.000155
+Speaker THD Value @400Hz,0.000152
+End,0.000022
+For,0.000316
+Speaker THD Value @412Hz,0.000302
+End,0.000039
+For,0.000227
+Speaker THD Value @425Hz,0.000318
+End,0.000065
+For,0.000313
+Speaker THD Value @437Hz,0.000291
+End,0.000027
+For,0.000177
+Speaker THD Value @450Hz,0.000158
+End,0.000023
+For,0.000156
+Speaker THD Value @462Hz,0.000149
+End,0.000028
+For,0.000174
+Speaker THD Value @475Hz,0.0002
+End,0.000026
+For,0.000173
+Speaker THD Value @487Hz,0.000684
+End,0.000037
+For,0.000186
+Speaker THD Value @500Hz,0.000176
+End,0.000027
+For,0.000176
+Speaker THD Value @515Hz,0.000436
+End,0.000036
+For,0.000207
+Speaker THD Value @530Hz,0.00032
+End,0.00004
+For,0.000275
+Speaker THD Value @545Hz,0.000175
+End,0.000023
+For,0.000152
+Speaker THD Value @560Hz,0.000198
+End,0.000038
+For,0.000183
+Speaker THD Value @580Hz,0.000203
+End,0.000057
+For,0.000685
+Speaker THD Value @600Hz,0.000255
+End,0.00004
+For,0.000272
+Speaker THD Value @615Hz,0.000157
+End,0.000039
+For,0.00016
+Speaker THD Value @630Hz,0.000214
+End,0.000026
+For,0.000193
+Speaker THD Value @650Hz,0.00018
+End,0.000028
+For,0.000198
+Speaker THD Value @670Hz,0.00017
+End,0.000112
+For,0.000256
+Speaker THD Value @690Hz,0.000192
+End,0.000061
+For,0.000187
+Speaker THD Value @710Hz,0.000182
+End,0.000041
+For,0.000186
+Speaker THD Value @730Hz,0.000189
+End,0.000027
+For,0.000323
+Speaker THD Value @750Hz,0.000151
+End,0.000049
+For,0.000271
+Speaker THD Value @775Hz,0.000277
+End,0.000037
+For,0.000184
+Speaker THD Value @800Hz,0.000177
+End,0.000027
+For,0.000173
+Speaker THD Value @825Hz,0.000547
+End,0.000043
+For,0.00023
+Speaker THD Value @850Hz,0.000218
+End,0.000023
+For,0.000272
+Speaker THD Value @875Hz,0.000154
+End,0.000022
+For,0.000152
+Speaker THD Value @900Hz,0.000267
+End,0.000041
+For,0.000232
+Speaker THD Value @925Hz,0.000241
+End,0.000038
+For,0.000703
+Speaker THD Value @950Hz,0.000291
+End,0.000045
+For,0.00031
+Speaker THD Value @975Hz,0.0003
+End,0.000043
+For,0.000626
+Speaker THD Value @1000Hz,0.000257
+End,0.000034
+For,0.000228
+Speaker THD Value @1030Hz,0.000266
+End,0.000043
+For,0.000175
+Speaker THD Value @1060Hz,0.000216
+End,0.000037
+For,0.00027
+Speaker THD Value @1090Hz,0.000259
+End,0.000046
+For,0.000324
+Speaker THD Value @1120Hz,0.000331
+End,0.000049
+For,0.00027
+Speaker THD Value @1150Hz,0.000224
+End,0.000026
+For,0.000268
+Speaker THD Value @1180Hz,0.000347
+End,0.000044
+For,0.000223
+Speaker THD Value @1220Hz,0.000239
+End,0.000053
+For,0.00027
+Speaker THD Value @1250Hz,0.000271
+End,0.000095
+For,0.000391
+Speaker THD Value @1280Hz,0.000257
+End,0.00004
+For,0.000266
+Speaker THD Value @1320Hz,0.000255
+End,0.000044
+For,0.000252
+Speaker THD Value @1360Hz,0.000206
+End,0.000042
+For,0.000268
+Speaker THD Value @1400Hz,0.000196
+End,0.000024
+For,0.000155
+Speaker THD Value @1450Hz,0.000171
+End,0.000041
+For,0.0002
+Speaker THD Value @1500Hz,0.000258
+End,0.000086
+For,0.000179
+Speaker THD Value @1550Hz,0.00035
+End,0.000039
+For,0.000268
+Speaker THD Value @1600Hz,0.000168
+End,0.000024
+For,0.000161
+Speaker THD Value @1650Hz,0.000171
+End,0.000024
+For,0.000153
+Speaker THD Value @1700Hz,0.000195
+End,0.000031
+For,0.000175
+Speaker THD Value @1750Hz,0.000174
+End,0.000027
+For,0.000548
+Speaker THD Value @1800Hz,0.000399
+End,0.000029
+For,0.000177
+Speaker THD Value @1850Hz,0.000179
+End,0.000047
+For,0.00026
+Speaker THD Value @1900Hz,0.00023
+End,0.000028
+For,0.000309
+Speaker THD Value @1950Hz,0.000242
+End,0.000025
+For,0.000161
+Speaker THD Value @2000Hz,0.000146
+End,0.000024
+For,0.000321
+Speaker THD Value @2060Hz,0.000197
+End,0.000029
+For,0.000172
+Speaker THD Value @2120Hz,0.000204
+End,0.000101
+For,0.000201
+Speaker THD Value @2180Hz,0.000204
+End,0.00003
+For,0.000166
+Speaker THD Value @2240Hz,0.000175
+End,0.000023
+For,0.000159
+Speaker THD Value @2300Hz,0.000157
+End,0.00004
+For,0.000219
+Speaker THD Value @2360Hz,0.000176
+End,0.000037
+For,0.000255
+Speaker THD Value @2430Hz,0.000253
+End,0.000029
+For,0.000203
+Speaker THD Value @2500Hz,0.000196
+End,0.000047
+For,0.000185
+Speaker THD Value @2580Hz,0.000688
+End,0.000031
+For,0.000234
+Speaker THD Value @2650Hz,0.000189
+End,0.000021
+For,0.000168
+Speaker THD Value @2720Hz,0.000147
+End,0.000022
+For,0.000215
+Speaker THD Value @2800Hz,0.000487
+End,0.000045
+For,0.000187
+Speaker THD Value @2900Hz,0.000202
+End,0.000027
+For,0.000177
+Speaker THD Value @3000Hz,0.000322
+End,0.000028
+For,0.000317
+Speaker THD Value @3070Hz,0.000186
+End,0.000037
+For,0.000163
+Speaker THD Value @3150Hz,0.000152
+End,0.000049
+For,0.000265
+Speaker THD Value @3250Hz,0.000273
+End,0.000028
+For,0.000337
+Speaker THD Value @3350Hz,0.000205
+End,0.000034
+For,0.000282
+Speaker THD Value @3450Hz,0.000261
+End,0.000039
+For,0.000257
+Speaker THD Value @3550Hz,0.000269
+End,0.0001
+For,0.000178
+Speaker THD Value @3650Hz,0.000256
+End,0.000038
+For,0.000277
+Speaker THD Value @3750Hz,0.000161
+End,0.000022
+For,0.000158
+Speaker THD Value @3870Hz,0.000162
+End,0.000096
+For,0.000286
+Speaker THD Value @4000Hz,0.000241
+End,0.000031
+For,0.00018
+Speaker THD Value @4120Hz,0.000182
+End,0.000062
+For,0.000186
+Speaker THD Value @4250Hz,0.000287
+End,0.000046
+For,0.000162
+Speaker THD Value @4370Hz,0.000161
+End,0.000022
+For,0.000167
+Speaker THD Value @4500Hz,0.000139
+End,0.000032
+For,0.000166
+Speaker THD Value @4620Hz,0.000175
+End,0.000063
+For,0.00026
+Speaker THD Value @4750Hz,0.000639
+End,0.000042
+For,0.000187
+Speaker THD Value @4870Hz,0.000173
+End,0.000026
+For,0.00025
+Speaker THD Value @5000Hz,0.000614
+End,0.000033
+For,0.000185
+Speaker THD Value @5150Hz,0.00017
+End,0.000039
+For,0.000271
+Speaker THD Value @5300Hz,0.000257
+End,0.000025
+For,0.000217
+Speaker THD Value @5450Hz,0.000312
+End,0.000044
+For,0.000185
+Speaker THD Value @5600Hz,0.000176
+End,0.000026
+For,0.000498
+Speaker THD Value @5800Hz,0.00018
+End,0.000049
+For,0.000202
+Speaker THD Value @6000Hz,0.000252
+End,0.000024
+For,0.000157
+Speaker THD Value @6150Hz,0.000148
+End,0.000022
+For,0.00032
+Speaker THD Value @6300Hz,0.000232
+End,0.000037
+For,0.00027
+Speaker THD Value @6500Hz,0.000193
+End,0.000113
+For,0.000189
+Speaker THD Value @6700Hz,0.00019
+End,0.000028
+For,0.000172
+Speaker THD Value @6900Hz,0.000208
+End,0.000111
+For,0.000255
+Speaker THD Value @7100Hz,0.000273
+End,0.000032
+For,0.000165
+Speaker THD Value @7300Hz,0.000249
+End,0.000038
+For,0.000158
+Speaker THD Value @7500Hz,0.000142
+End,0.000073
+For,0.000214
+Speaker THD Value @7750Hz,0.000254
+End,0.000029
+For,0.00018
+Speaker THD Value @8000Hz,0.000179
+End,0.000035
+For,0.000179
+Speaker THD Value @8250Hz,0.00018
+End,0.00003
+For,0.000163
+Speaker THD Value @8500Hz,0.000217
+End,0.000026
+For,0.000164
+Speaker THD Value @8750Hz,0.000257
+End,0.000044
+For,0.000258
+Speaker THD Value @9000Hz,0.000173
+End,0.000042
+For,0.000256
+Speaker THD Value @9250Hz,0.000528
+End,0.000039
+For,0.000185
+Speaker THD Value @9500Hz,0.000171
+End,0.000028
+For,0.000278
+Speaker THD Value @9750Hz,0.000221
+End,0.000029
+For,0.000388
+Speaker THD Value @10000Hz,0.000271
+End,0.000024
+For,0.000277
+Speaker THD Value @10300Hz,0.000152
+End,0.000022
+For,0.000261
+Speaker THD Value @10600Hz,0.00028
+End,0.000049
+For,0.000268
+Speaker THD Value @10900Hz,0.000259
+End,0.000039
+For,0.000285
+Speaker THD Value @11200Hz,0.000392
+End,0.000028
+For,0.00018
+Speaker THD Value @11500Hz,0.00018
+End,0.000036
+For,0.000161
+Speaker THD Value @11800Hz,0.000148
+End,0.00002
+For,0.00022
+Speaker THD Value @12200Hz,0.000234
+End,0.000039
+For,0.000178
+Speaker THD Value @12500Hz,0.000173
+End,0.000074
+For,0.000176
+Speaker THD Value @12800Hz,0.000175
+End,0.000029
+For,0.000173
+Speaker THD Value @13200Hz,0.00022
+End,0.00004
+For,0.000203
+Speaker THD Value @13600Hz,0.000182
+End,0.000029
+For,0.000224
+Speaker THD Value @14000Hz,0.000556
+End,0.00003
+For,0.0002
+Speaker THD Value @14500Hz,0.000274
+End,0.00004
+For,0.000269
+Speaker THD Value @15000Hz,0.000265
+End,0.000039
+For,0.000167
+Speaker THD Value @15500Hz,0.000199
+End,0.000047
+For,0.000301
+Speaker THD Value @16000Hz,0.000179
+End,0.000027
+For,0.000539
+Speaker THD Value @16500Hz,0.000207
+End,0.00004
+For,0.000179
+Speaker THD Value @17000Hz,0.00026
+End,0.000024
+For,0.000249
+Speaker THD Value @17500Hz,0.000153
+End,0.000023
+For,0.000157
+Speaker THD Value @18000Hz,0.000198
+End,0.000051
+For,0.000179
+Speaker THD Value @18500Hz,0.000183
+End,0.000113
+For,0.000176
+Speaker THD Value @19000Hz,0.000214
+End,0.000028
+For,0.000176
+Speaker THD Value @19500Hz,0.000172
+End,0.000108
+For,0.000242
+Speaker THD Value @20000Hz,0.000213
+End,0.000042
+Gap_50_Minus_1900,0.000184
+Disconnect,1.077162
