@@ -1,8 +1,3 @@
-
-
-
-
-
 """
 origin_list = [10, 22, 9, 33, 21, 50, 41, 60, 80]
 _lis(arr, n)                      n = 9
@@ -50,7 +45,7 @@ def _lis1(arr , n ):
     maxEndingHere = 1
 
     """Recursively get all LIS ending with arr[0], arr[1]..arr[n-2]
-       IF arr[n-1] is maller than arr[n-1], and max ending with
+       If arr[i-1] is smaller than arr[n-1], and max ending with
        arr[n-1] needs to be updated, then update it"""
     for i in xrange(1, n):
         res = _lis1(arr , i)
@@ -81,7 +76,7 @@ def lis1(arr):
 
 # Driver program to test the above function
 arr = [10 , 22 , 9 , 33 , 21 , 50 , 41 , 60]
-# arr = [1, 2, 3, 4, 5]
+arr = [1, 3, 0, 1, 2, 3, 4, 5]
 n = len(arr)
 print "Length of lis is", lis1(arr)
 

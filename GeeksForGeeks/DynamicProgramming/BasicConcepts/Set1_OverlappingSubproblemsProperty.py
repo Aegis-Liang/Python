@@ -38,10 +38,10 @@ def fib1(n, lookup):
 
 # Driver program to test the above function
 def main1():
-    n = 34
+    n = 300
     # Declaration of lookup table
     # Handles till n = 100 
-    lookup = [None]*(101)
+    lookup = [None]*(n+1)
     print "Fibonacci Number is ", fib1(n, lookup)
 
     
@@ -70,7 +70,7 @@ def fib2(n):
 
 # Driver program to test the above function
 def main2():
-    n = 9
+    n = 300
     print "Fibonacci number is " , fib2(n)
 
 if __name__=="__main__":

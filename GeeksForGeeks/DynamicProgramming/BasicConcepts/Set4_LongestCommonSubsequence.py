@@ -1,7 +1,7 @@
 
 """
-1) L(“AGGTAB”, “GXTXAYB”) = 1 + L(“AGGTA”, “GXTXAY”)
-2) L(“ABCDGH”, “AEDFHR”) = MAX ( L(“ABCDG”, “AEDFHR”), L(“ABCDGH”, “AEDFH”) )
+1) L("GGTAB" "XTXAYB") = 1 + L("GGTA" XTXAY")
+2) L("BCDGH" "EDFHR") = MAX ( L("BCDG" "EDFHR", L("BCDGH" "EDFH") )
 """
 # A Naive recursive Python implementation of LCS problem
 
@@ -39,6 +39,9 @@ A          0    1    1    1    2    3    3
 Y          0    1    1    1    2    3    3
 
 B          0    1    1    1    2    3    4
+
+if two letters are not the same, get the larger value from the its left and top.
+if two letters are the same, add one from its top left value. (It seems that top is OK, left is not OK)
 
 """
 
