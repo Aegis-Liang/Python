@@ -1,5 +1,5 @@
 import sys
-from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QAction, QTableWidget,QTableWidgetItem,QVBoxLayout
+from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QAction, QTableWidget,QTableWidgetItem,QVBoxLayout, QHeaderView
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import pyqtSlot
 
@@ -10,8 +10,8 @@ class App(QWidget):
         self.title = 'PyQt5 table'
         self.left = 100
         self.top = 100
-        self.width = 800
-        self.height = 600
+        self.width = 640
+        self.height = 480
         self.initUI()
 
     def initUI(self):
@@ -37,7 +37,13 @@ class App(QWidget):
         #stylesheet = "QHeaderView::section{Background-color:rgb(190,1,1);border-radius:14px;}"
         stylesheet = "QHeaderView::section{Background-color:rgb(193,210,240);}"
         self.tableWidget.horizontalHeader().setStyleSheet(stylesheet) 
-        self.tableWidget.setItem(0,0, QTableWidgetItem("Cell (1,1)"))
+        stylesheet2 = "QHeaderView::section{width:30px;align:center}"
+        self.tableWidget.verticalHeader().setStyleSheet(stylesheet2) 
+        header = self.tableWidget.horizontalHeader()       
+        header.setSectionResizeMode(0, QHeaderView.Stretch)
+                
+        
+        self.tableWidget.setItem(0,0, QTableWidgetItem("A Very Long Test Name"))
         self.tableWidget.setItem(0,1, QTableWidgetItem("Cell (1,2)"))
         self.tableWidget.setItem(1,0, QTableWidgetItem("Cell (2,1)"))
         self.tableWidget.setItem(1,1, QTableWidgetItem("Cell (2,2)"))
