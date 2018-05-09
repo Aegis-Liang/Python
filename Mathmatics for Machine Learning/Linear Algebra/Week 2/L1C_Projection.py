@@ -18,10 +18,11 @@ unit vector with direction r     r/|r|
 (vector projection)              x = |x|*(r/|r|) = ((r.s)/|r|)/(r/|r|) = (r.s)*r/(|r||r|) = r*((r.s)/(r.r))
 
 """
-
+from __future__ import division     # this must be imported in python 2, otherwise int/int = int not float
 import numpy as np
 
-def projection2D(r, s):
+# project s to r, it seems work for all dimension, remove the 2D from the function name
+def projection(r, s):
     # r has no length, occurs error
     if(np.linalg.norm(r) == 0):
         return None
@@ -31,4 +32,8 @@ def projection2D(r, s):
 if __name__ == "__main__":
     a = np.array([1,0])
     b = np.array([5,2])
-    print projection2D(a, b)
+    print projection(a, b)
+    
+    c = np.array([3,-4,0])
+    d = np.array([10,5,-6])
+    print projection(c, d)
