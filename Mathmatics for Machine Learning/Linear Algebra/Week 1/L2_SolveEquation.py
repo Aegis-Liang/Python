@@ -1,6 +1,6 @@
 import numpy as np
 
-A = np.matrix('1 2;4 5')
+A = np.matrix('1 2;4 5')    # it's better use nparray since matrix is only for 2D
 b = np.matrix('3;6')
 r = np.linalg.solve(A, b)
 
